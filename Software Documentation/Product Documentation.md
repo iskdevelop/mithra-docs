@@ -2,11 +2,11 @@
 
 Mithra is a next-generation presentation, meeting, and educational platform designed specifically for the scientific community. It enables seamless global interaction, fostering collaboration, innovation, and engagement in research, education, and professional discourse. This document outlines Mithra's core attributes, functional and non-functional requirements, user experience research, and architecture design principles.
 
-## Defining Mithra
+# Defining Mithra
 
 Mithra is built to facilitate meetings and presentations, including academic lectures, educational workshops, research group discussions, and professional exchanges among scientists, educators, and students. It bridges the gap between conventional presentation tools and specialized scientific workflows, ensuring a more intuitive and productive experience.
 
-### Similar Products in Mithra's Business Scope
+## Similar Products in Mithra's Business Scope
 
 While Mithra shares functionalities with various existing platforms, it goes beyond their limitations by tailoring features specifically for scientific and academic communities. Comparable solutions include:
 
@@ -17,11 +17,11 @@ While Mithra shares functionalities with various existing platforms, it goes bey
 
 Mithra does not merely replicate these functionalities but extends and refines them to suit academic and research-centric workflows.
 
-## Distinctive Traits
+# Distinctive Traits
 
 Mithra introduces several unique features that enhance dynamism, engagement, and suitability for scientific interactions. These traits are further explored in the Functional Requirements Document, but an overview is provided here.
 
-### Mithra Presentation Model
+### ithra Presentation Model
 
 Mithra transforms the traditional presentation paradigm by making it:
 
@@ -29,7 +29,7 @@ Mithra transforms the traditional presentation paradigm by making it:
 - **Interactive** – Presentations integrate live web components, enabling real-time interactions such as executing code, embedding simulations, and making annotations based on audience input.
 - **Extendable** – Mithra supports modular extensions that adapt to different academic needs, discussed in the Extendability section.
 
-### Mithra as a Social Platform
+## Mithra as a Social Platform
 
 Beyond meetings and presentations, Mithra functions as a **knowledge-sharing hub**. Users can:
 
@@ -41,7 +41,7 @@ This approach mirrors **GitHub for developers**, but for lectures and scientific
 
 Mithra also offers monetization options, such as donations, subscriptions, and paid enrollments, ensuring sustainability while rewarding contributors.
 
-### Mithra’s Distinction for the Scientific Community
+## Mithra’s Distinction for the Scientific Community
 
 Unlike mainstream platforms, Mithra is **purpose-built** for academia:
 
@@ -51,7 +51,7 @@ Unlike mainstream platforms, Mithra is **purpose-built** for academia:
 
 Mithra is designed for presentations and meetings within the scientific community, but it does not aim to fill the gap of an **IDE-equivalent** collaboration tool. Instead, that role will be fulfilled by Koncept, an **Integrated Research Environment (IRE)** and the next product in the ISK Ecosystem, which will provide a dedicated space for research teams to think, write, and interact with computational tools seamlessly. But Mithra can make scientific communities communicate more delicate.
 
-### Commitment to Open Collaboration
+## Commitment to Open Collaboration
 
 Mithra embodies the philosophy of **open collaboration**, fostering a globally accessible platform where knowledge creation and dissemination are unrestricted. Open collaboration refers to systems where participants voluntarily cooperate to develop content, much like **open-source software** development.
 
@@ -60,11 +60,11 @@ Drawing inspiration from Richard Stallman’s **GNU Manifesto** and Eric S. Raym
 - The development of **an open university model**, where lectures and educational resources are freely accessible.
 - Collaborative enhancement of scientific knowledge, similar to Wikipedia’s role in general information dissemination.
 
-## Mithra Extendability
+# Mithra Extendability
 
 Mithra is designed to be modular and expandable, allowing users to tailor it to their needs. Key extension areas include:
 
-### AI Integration
+## AI Integration
 
 Mithra incorporates AI-driven enhancements, such as:
 
@@ -72,7 +72,7 @@ Mithra incorporates AI-driven enhancements, such as:
 - **Context-aware recommendations** for related research and lecture materials.
 - **Smart summarization** of discussions and presentations, reducing cognitive load for participants.
 
-### Plugin Ecosystem
+## Plugin Ecosystem
 
 A **plugin system** enables third-party developers to create tools that extend Mithra’s capabilities, including:
 
@@ -80,7 +80,7 @@ A **plugin system** enables third-party developers to create tools that extend M
 - **Enhanced collaboration features** – Version control for lectures, co-authoring tools, and peer review mechanisms.
 - **Adaptive learning modules** – Personalized educational paths based on user engagement and progress.
 
-### Marketplace
+## Marketplace
 
 Mithra includes a **marketplace** where users can:
 
