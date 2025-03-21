@@ -21,7 +21,7 @@ Mithra does not merely replicate these functionalities but extends and refines t
 
 Mithra introduces several unique features that enhance dynamism, engagement, and suitability for scientific interactions. These traits are further explored in the Functional Requirements Document, but an overview is provided here.
 
-### ithra Presentation Model
+## Mithra Presentation Model
 
 Mithra transforms the traditional presentation paradigm by making it:
 
