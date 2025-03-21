@@ -1,0 +1,27 @@
+{
+  "show-checkboxes": true,
+  "full-list-lane-width": true,
+  "new-note-folder": "Untitled",
+  "move-tags": true,
+  "tag-colors": [],
+  "metadata-keys": [
+    {
+      "metadataKey": "Priority",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    },
+    {
+      "metadataKey": "Description",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    },
+    {
+      "metadataKey": "Tag",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": true
+    }
+  ]
+}
