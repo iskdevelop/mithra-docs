@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Documentation/Product Documentation.md",
-                "mode": "source",
+                "file": "UX Research Documentation/User Personas.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Product Documentation"
+              "title": "User Personas"
             }
           }
         ],
@@ -186,8 +186,9 @@
   },
   "active": "af6dadd94b24d2cd",
   "lastOpenFiles": [
-    "README.md",
     "Software Documentation/Product Documentation.md",
+    "UX Research Documentation/User Experience Documentation.md",
+    "README.md",
     "Software Documentation/Product Documentation/Functional Requirements.md",
     "Software Documentation/Product Documentation/Testing Documentation.md",
     "Software Documentation/Product Documentation/Non-Functional Requirements.md",
@@ -195,7 +196,6 @@
     "Software Documentation/Process Documentation.md",
     "Documentation Kanban.md",
     "Product Documentation Non-Functional Requirements.md",
-    "UX Research Documentation/User Experience Documentation.md",
     "Software Documentation/Process Documentation",
     "UX Research Documentation/User Stories.md",
     "UX Research Documentation/journey maps",
