@@ -6,58 +6,94 @@
       {
         "id": "d662a42c19ee75a8",
         "type": "tabs",
-        "dimension": 69.67005076142132,
         "children": [
           {
-            "id": "935f2ff850814350",
+            "id": "c92f158a82a1619a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Research Documentation/User Scenarios.md",
+                "file": "Software Documentation/Process Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Scenarios"
+              "title": "Process Documentation"
             }
           },
           {
-            "id": "a5b6802ac88b75b3",
+            "id": "35c2f692c2298d2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Research Documentation/User Scenarios.md",
+                "file": "UX Research Documentation/User Experience Documentation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Scenarios"
+              "title": "User Experience Documentation"
             }
-          }
-        ]
-      },
-      {
-        "id": "913c94d85e01d24f",
-        "type": "tabs",
-        "dimension": 30.329949238578678,
-        "children": [
+          },
           {
-            "id": "af6dadd94b24d2cd",
+            "id": "389f4639a39e37c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UX Research Documentation/User Personas.md",
-                "mode": "preview",
+                "file": "Software Documentation/Process Documentation/Technology Road map.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "User Personas"
+              "title": "Technology Road map"
+            }
+          },
+          {
+            "id": "7f792ed7126ed2dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Documentation/Process Documentation/Release Road map.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Release Road map"
+            }
+          },
+          {
+            "id": "1c5c7c8851a96459",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Metrics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metrics"
+            }
+          },
+          {
+            "id": "1f929b81fd8d4fa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software Documentation/Process Documentation/Standards.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Standards"
             }
           }
-        ]
+        ],
+        "currentTab": 1,
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5
   },
   "right": {
     "id": "d07d610ae2a97b44",
@@ -205,19 +241,32 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "935f2ff850814350",
+  "active": "35c2f692c2298d2b",
   "lastOpenFiles": [
-    "UX Research Documentation/User Experience Documentation.md",
     "UX Research Documentation/User Stories.md",
     "UX Research Documentation/User Scenarios.md",
     "UX Research Documentation/User Personas.md",
-    "Software Documentation/Product Documentation.md",
-    "README.md",
-    "Software Documentation/Product Documentation/Functional Requirements.md",
-    "Software Documentation/Product Documentation/Testing Documentation.md",
-    "Software Documentation/Product Documentation/Non-Functional Requirements.md",
     "Software Documentation/Product Documentation/Architecture Design Documentation.md",
+    "Software Documentation/Product Documentation/Non-Functional Requirements.md",
+    "Next-Generation-Ideas/Mithra Social.md",
+    "Software Documentation/Process Documentation/Technology Road map.md",
+    "Software Documentation/Process Documentation/Strategy Road map.md",
     "Software Documentation/Process Documentation.md",
+    "Software Documentation/Process Documentation/Release Road map.md",
+    "Metrics.md",
+    "Software Documentation/Process Documentation/Standards.md",
+    "Software Documentation/Product Documentation/Testing Documentation.md",
+    "Software Documentation/Product Documentation/Functional Requirements.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Authentication.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Meetings.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Extensions.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Canvas and Presentation.md",
+    "Software Documentation/Product Documentation/Functional Requirements",
+    "Software Documentation/Product Documentation.md",
+    "UX Research Documentation/User Experience Documentation.md",
+    "User.md",
+    "Next-Generation-Ideas",
+    "README.md",
     "Documentation Kanban.md",
     "Product Documentation Non-Functional Requirements.md",
     "Software Documentation/Process Documentation",
@@ -228,8 +277,6 @@
     "Software Documentation/Product Documentation",
     "Misc",
     "Management",
-    "UX Research Documentation",
-    "Api Documentation",
-    "Software Documentation"
+    "UX Research Documentation"
   ]
 }

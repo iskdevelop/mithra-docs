@@ -5,7 +5,7 @@
 1. **Dynamic Research Presentations** – Amir presents his latest findings at a conference using Mithra’s interactive slides, where equations and datasets update in real-time based on audience input.
 2. **Live Data Visualization** – Instead of static graphs, he integrates live plots that adjust dynamically when he changes parameters, making complex trends more intuitive.
 3. **Real-Time Equation Editing** – During a presentation on error correction, he modifies an equation on the spot, and the audience sees the updates instantly.
-4. **Embedded Computational Models** – Instead of explaining theoretical models with pre-rendered charts, he embeds an interactive simulation that allows the audience to explore different scenarios.
+4. **Embedded Computational Models** – Instead of explaining theoretical models with prerendered charts, he embeds an interactive simulation that allows the audience to explore different scenarios.
 5. **Cross-Disciplinary Presentations** – He collaborates with an experimental physicist to present a hybrid talk, where theoretical equations and experimental data interact dynamically.
 
 ## Research Collaboration & Knowledge Sharing

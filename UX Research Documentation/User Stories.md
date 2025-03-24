@@ -1,4 +1,5 @@
-# Researchers & Scientists (Dr. Amir Patel)
+These user stories encompass the core functionality needed for Mithra to fulfill the needs of its diverse user base while maintaining focus on scientific and academic collaboration. Each story is structured with the standard format of "As a [role], I want [feature] so that [benefit]" to clearly communicate the user need and expected outcome.
+# Researchers & Scientists 
 
 ## Dynamic Presentations
 
@@ -32,7 +33,7 @@
 19. As a scientist mentoring students, I want to create a shared workspace for collaborative research so that teamwork is more effective.
 20. As a researcher, I want to integrate experimental results with theoretical models in discussions so that research is more data-driven.
 
-# Professors & Educators (Prof. Elena Rossi)
+# Professors & Educators 
 
 ## Lecture Management
 
@@ -66,7 +67,7 @@
 39. As an educator, I want to document experiments collaboratively with students so that learning extends beyond lectures.
 40. As a professor, I want to offer specialized courses with premium content so that I can generate revenue while contributing to open science.
 
-# Students & Graduate Researchers (Lisa Nakamura)
+# Students & Graduate Researchers 
 
 ## Learning Resources
 
@@ -100,7 +101,7 @@
 59. As a student, I want to organize all relevant materials for exam preparation so that review is streamlined.
 60. As a graduate researcher, I want to host virtual seminars with interactive presentation tools so that academic communication skills develop.
 
-# Independent Learners & Science Communicators (Daniel Carter)
+# Independent Learners & Science Communicators
 
 ## Content Creation
 
@@ -134,7 +135,7 @@
 79. As a science YouTuber, I want to cross-promote with academic researchers so that audiences gain deeper knowledge.
 80. As an independent educator, I want to incorporate audience input into future content so that material addresses community interests.
 
-# Platform Features (General User Stories)
+# Platform Features 
 
 ## User Experience
 
@@ -167,5 +168,3 @@
 98. As a user, I want threaded discussions so that conversations maintain context.
 99. As a user, I want collaborative editing features so that multiple people can work simultaneously.
 100. As a user, I want attribution systems so that contributions are properly credited.
-
-These user stories encompass the core functionality needed for Mithra to fulfill the needs of its diverse user base while maintaining focus on scientific and academic collaboration. Each story is structured with the standard format of "As a [role], I want [feature] so that [benefit]" to clearly communicate the user need and expected outcome.
