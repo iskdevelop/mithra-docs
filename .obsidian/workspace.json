@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software Documentation/Product Documentation/Functional Requirements/Meetings.md",
+                "file": "Metrics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meetings"
+              "title": "Metrics"
             }
           }
         ],
@@ -172,16 +172,20 @@
   },
   "active": "35c2f692c2298d2b",
   "lastOpenFiles": [
-    "Software Documentation/Product Documentation/Functional Requirements/Extensions.md",
+    "MVP/REQ ver 0.1.md",
     "Software Documentation/Product Documentation/Functional Requirements/Canvas and Presentation.md",
-    "Software Documentation/Product Documentation/Architecture Design Documentation.md",
+    "MVP",
+    "Software Documentation/Product Documentation.md",
+    "UX Research Documentation/journey maps/Authentication Journey Map.md",
+    "UX Research Documentation/User Experience Documentation.md",
+    "UX Research Documentation/User Personas.md",
+    "UX Research Documentation/User Scenarios.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Meetings.md",
+    "Software Documentation/Product Documentation/Functional Requirements/Extensions.md",
     "Software Documentation/Product Documentation/Functional Requirements/Authentication.md",
     "Software Documentation/Product Documentation/Functional Requirements.md",
-    "Software Documentation/Product Documentation.md",
-    "UX Research Documentation/User Experience Documentation.md",
+    "Software Documentation/Product Documentation/Architecture Design Documentation.md",
     "UX Research Documentation/User Stories.md",
-    "UX Research Documentation/User Scenarios.md",
-    "UX Research Documentation/User Personas.md",
     "Software Documentation/Product Documentation/Non-Functional Requirements.md",
     "Next-Generation-Ideas/Mithra Social.md",
     "Software Documentation/Process Documentation/Technology Road map.md",
@@ -191,7 +195,6 @@
     "Metrics.md",
     "Software Documentation/Process Documentation/Standards.md",
     "Software Documentation/Product Documentation/Testing Documentation.md",
-    "Software Documentation/Product Documentation/Functional Requirements/Meetings.md",
     "Software Documentation/Product Documentation/Functional Requirements",
     "User.md",
     "Next-Generation-Ideas",
@@ -202,10 +205,8 @@
     "UX Research Documentation/journey maps",
     "UX Research Documentation/wireframes",
     "UX Research Documentation/prototypes",
-    "Misc/Agile Manifesto Principles.md",
     "Software Documentation/Product Documentation",
     "Misc",
-    "Management",
-    "UX Research Documentation"
+    "Management"
   ]
 }
